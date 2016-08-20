@@ -9,10 +9,6 @@ package br.senac.tads3.agenda;
  *
  * @author rodolfo.smneto
  */
-public class Agenda {
-    
-     public static void main(String[] args) {
-       System.out.println("!!!!!!!!!**********");
-    }
+public class aula3 {
     
 }
